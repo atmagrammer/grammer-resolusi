@@ -3,4 +3,5 @@ content plan
 * Javascript
   ~ Framework JS
   ~ ES6
+* CSS
 * Framework
