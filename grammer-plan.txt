@@ -1,8 +1,8 @@
 content plan
-
 * Javascript
-  ~ Vue JS
+  ~ React
   ~ Framework JS
   ~ ES6
 * Framework
   ~ Codeigniter
+* Database
