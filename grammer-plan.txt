@@ -1,7 +1,9 @@
 content plan
 
 * Javascript
+  ~ React
   ~ Framework JS
   ~ ES6
 * CSS
 * Framework
+* Design Grafis
