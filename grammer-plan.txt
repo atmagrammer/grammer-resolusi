@@ -1,7 +1,8 @@
 content plan
 
 * Javascript
+  ~ Vue JS
   ~ Framework JS
   ~ ES6
-* CSS
 * Framework
+  ~ Codeigniter
