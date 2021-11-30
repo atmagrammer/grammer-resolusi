@@ -1,3 +1,5 @@
 Grammer Resolusi
 - learn programming 
 - learn web and android based programming
+- Make App
+- save the source code of the application creation
