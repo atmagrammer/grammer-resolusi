@@ -7,3 +7,4 @@ content plan
 * CSS
 * Framework
 * Design Grafis
+* Database
